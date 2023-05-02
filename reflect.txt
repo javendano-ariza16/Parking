@@ -1,0 +1,30 @@
+/* Citation and Sources...
+Final Project Milestone 1
+Author	Juan David Avendao
+-----------------------------------------------------------
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my project milestones.
+-----------------------------------------------------------
+It has been really hard to understand how is stored the data 
+in memory. The creation of this application taught me how to 
+work in modules, and how to split, organize, manage and program
+ large projects. Understanding inheritance also helped me to
+ save too many lines of code. This can be reflected in the 
+inheritance of the Motorcycle and Car classes that both come 
+from the Vehicle class and in turn come from the ReadWritable
+ class. I found it very curious how we divide the information 
+of the display of the menus and the data.
+
+The way of storing the information in the array has also been 
+very interesting how through a function that was created in the 
+vehicle class we could access the value inside a data member 
+that was protected by privacy as the function getparkingSpot(),
+ and in this way locate the objects that were being integrated 
+to our application.
+
+Definitely the biggest project I have ever worked on and I am 
+excited about what is to come in the following semesters. Thank
+ you very much professor for everything, because despite the 
+complications that have arisen to overcome each milestone gave 
+me a sense of pride that gave recognition to the effort given 
+throughout this last year.
